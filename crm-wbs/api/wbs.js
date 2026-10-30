@@ -4,7 +4,7 @@ const initial = require('../lib/snapshot.json');
 
 // Dữ liệu lưu thành một file JSON trong repo GitHub (mỗi lần sửa là một commit nên có sẵn lịch sử và bản sao lưu).
 const TOKEN = process.env.GH_TOKEN;
-const REPO = process.env.GH_REPO || 'trananhhoai0-lang/MemeHael';
+const REPO = process.env.GH_REPO || 'anhtran-lance/MemeHael';
 const BRANCH = process.env.GH_BRANCH || 'wbs-data';
 const FILE = 'crm-wbs/state.json';
 

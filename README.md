@@ -5,10 +5,10 @@ Bộ web của dự án workshop Base (hạn 31/10/2026). Mỗi thư mục là m
 | Thư mục | Nội dung | Địa chỉ |
 |---|---|---|
 | `crm-wbs/` | WBS CRM (Đề 1) | https://crm-wbs.vercel.app |
-| `solution-design/` | Solution design | (chưa deploy) |
-| `lo-trinh/` | Lộ trình triển khai | (chưa deploy) |
-| `huong-dan/` | Bộ tài liệu hướng dẫn sử dụng mới | (chưa deploy) |
-| `toolkit/` | Toolkit triển khai | (chưa deploy) |
+| `solution-design/` | Solution design | https://bw-solution-design.vercel.app |
+| `lo-trinh/` | Lộ trình triển khai | https://bw-lo-trinh.vercel.app |
+| `huong-dan/` | Bộ tài liệu hướng dẫn sử dụng mới | https://bw-huong-dan.vercel.app |
+| `toolkit/` | Toolkit triển khai | https://bw-toolkit.vercel.app |
 
 ## Cách cộng tác
 1. Tạo nhánh riêng: `feature/<tên-bạn>-<việc>`.
